@@ -5,4 +5,9 @@
 
 5 Creating a new branch is quick AND simple
 
-6 Git is a free software 
+
+6 add dev branch
+
+--------------
+
+1 line
